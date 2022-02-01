@@ -1,0 +1,24 @@
+#herosection {
+  background: url(lawfirm.jpg) no-repeat;
+  background-size: cover;
+}
+.black,
+.dropdown-menu-dark {
+  background-color: rgba(0, 0, 0, 0.39);
+}
+.form-control {
+  line-height: 2rem;
+}
+#watch {
+  background: url(unsplash.jpg);
+  background-size: cover;
+}
+.bg-numbers {
+  background: rgb(190, 60, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(190, 60, 255, 1) 1%,
+    rgba(24, 24, 252, 1) 51%,
+    rgba(67, 57, 251, 1) 98%
+  );
+}
